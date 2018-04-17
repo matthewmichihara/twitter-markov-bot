@@ -1,4 +1,4 @@
 cron:
-- description: "daily tweet"
+- description: "ocassional tweet"
   url: /tasks/tweet
-  schedule: every 24 hours
+  schedule: every 6 hours
