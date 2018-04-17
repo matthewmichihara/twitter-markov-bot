@@ -1,0 +1,4 @@
+cron:
+- description: "daily tweet"
+  url: /tasks/tweet
+  schedule: every 24 hours
